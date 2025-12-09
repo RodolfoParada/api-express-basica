@@ -4,3 +4,5 @@
 {"ip":"::1","level":"info","message":"Solicitud HTTP","metodo":"GET","service":"task-api","status":404,"timestamp":"2025-12-09T22:04:37.714Z","url":"/favicon.ico"}
 {"ip":"::1","level":"info","message":"Solicitud HTTP","metodo":"GET","service":"task-api","status":200,"timestamp":"2025-12-09T22:04:47.772Z","url":"/api/stats/conteo-estados"}
 {"ip":"::1","level":"info","message":"Solicitud HTTP","metodo":"GET","service":"task-api","status":304,"timestamp":"2025-12-09T22:04:59.485Z","url":"/api/stats/conteo-estados"}
+{"ip":"::1","level":"info","message":"Solicitud HTTP","metodo":"GET","service":"task-api","status":304,"timestamp":"2025-12-09T22:07:12.440Z","url":"/api/stats/conteo-estados"}
+{"ip":"::1","level":"info","message":"Solicitud HTTP","metodo":"GET","service":"task-api","status":200,"timestamp":"2025-12-09T22:07:25.432Z","url":"/api/stats/exportar/csv"}
